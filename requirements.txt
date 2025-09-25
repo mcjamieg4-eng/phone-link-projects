@@ -1,0 +1,9 @@
+Flask==2.3.3
+pathlib2==2.3.7
+Werkzeug==2.3.7
+aiohttp==3.8.6
+aiofiles==23.2.1
+beautifulsoup4==4.12.2
+playwright==1.40.0
+pefile==2023.2.7
+requests==2.31.0

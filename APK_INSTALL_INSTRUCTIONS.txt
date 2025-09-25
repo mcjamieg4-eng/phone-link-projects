@@ -1,0 +1,36 @@
+APK INSTALLATION INSTRUCTIONS
+=============================
+
+File: family-guy-real-bypass.apk (98MB)
+
+REQUIREMENTS:
+- Android device
+- USB debugging enabled
+- ADB installed on PC
+
+INSTALLATION STEPS:
+
+METHOD 1 - Direct Install (Easiest):
+1. Copy family-guy-real-bypass.apk to your Android device
+2. Enable "Unknown Sources" in Settings > Security
+3. Use file manager to tap the APK and install
+4. Launch Family Guy game
+
+METHOD 2 - ADB Install:
+1. Connect Android device to PC via USB
+2. Enable USB Debugging in Developer Options
+3. Open command prompt in this folder
+4. Run: adb install family-guy-real-bypass.apk
+5. Launch Family Guy game
+
+METHOD 3 - Without Root:
+1. Uninstall original Family Guy completely first
+2. Install family-guy-real-bypass.apk using Method 1 or 2
+3. Launch game
+
+VERIFICATION:
+- Premium features should be unlocked
+- In-app purchases should work without payment
+- Game should run normally with bypass active
+
+NOTE: This APK contains modified Security.smali with verifyPurchase() bypass
