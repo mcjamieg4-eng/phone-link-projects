@@ -210,3 +210,5 @@ This is a professional toolkit with real functionality. Contributions should mai
 ## License
 
 MIT License - See LICENSE file for details.
+#   U p d a t e d   R E A D M E  
+ 
